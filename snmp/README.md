@@ -1,7 +1,7 @@
 This is a windows exectuable file for the New Relic SNMP integration which only has a linux binary see below link for more info.
 https://docs.newrelic.com/docs/integrations/host-integrations/host-integrations-list/snmp-monitoring-integration
 
-To install copy nri-snmp.exe to below directory(If there is no folder called create one)
+To install copy nri-snmp.exe to below directory(If there is no folder called \bin, create one)
 
 `C:\Program Files\New Relic\newrelic-infra\newrelic-integrations\bin`
 
